@@ -1,0 +1,23 @@
+{
+  "name": "unit-test-practice",
+  "version": "1.0.0",
+  "description": "", 
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengiefen/unit-test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengiefen/unit-test-practice/issues"
+  },
+  "homepage": "https://github.com/mengiefen/unit-test-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
