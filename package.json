@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "", 
   "scripts": {
-    "test": "jest",
-    "watch": "jest --watch *.js"
+    "test": "jest --verbose",
+    "watch": "jest --watchAll"
   },
   "repository": {
     "type": "git",

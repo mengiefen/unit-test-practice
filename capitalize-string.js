@@ -4,6 +4,3 @@ const capitalize = (string) =>
     : undefined;
 
 module.exports = capitalize;
-
-
-console.log((/[a-zA-Z]/).test('ssts'.charAt(0)));
